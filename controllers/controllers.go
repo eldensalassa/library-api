@@ -1,4 +1,3 @@
-// controllers/bookController.go
 package controllers
 
 import (
